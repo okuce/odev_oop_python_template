@@ -1,9 +1,6 @@
-YBS401-Python ile web geliştirme
+BMB217 - OOP LAB
+2022 Güz
 
-2021 Güz
+Quiz 1
 
-Ödev 2
-
-Son gönderim tarihi 14.11.2021 23:59:59
-
-Ödev kapsamında "oop_assingment.py" dosyasındaki eksik ve düzeltmeleri yapıp göndermeniz gerekmektedir.
+"oop_assingment.py" dosyasındaki eksik ve düzeltmeleri yapıp göndermeniz gerekmektedir.
