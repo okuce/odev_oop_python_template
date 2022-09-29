@@ -1,6 +1,6 @@
 '''
-BMB215-2022-fall-1
-Ödev kapsamında yapmanız gereken:
+BMB217-2022-fall-Quiz1
+Quiz kapsamında yapmanız gereken:
 
 Oncelikle urunler adinda bir sinif tanimlayiniz. 
 Urunler sinifi urun_adi, urun_alis_fiyati, urun_otv_orani, urun_kdv_orani ozelliklerine sahip olmalidir. 
