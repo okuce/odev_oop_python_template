@@ -1,5 +1,5 @@
 '''
-YBS401-2021-fall-2
+BMB215-2022-fall-1
 Ödev kapsamında yapmanız gereken:
 
 Oncelikle urunler adinda bir sinif tanimlayiniz. 
